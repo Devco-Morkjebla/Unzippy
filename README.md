@@ -7,4 +7,4 @@ When one is detected you get to choose whether you want to unzip it or blacklist
 
 After selecting yes you will be prompted about where to unzip it downloads, desktop, documents, pictures
 
-You may compile the code yourself with https://www.autohotkey.com/
+You may compile the code yourself with https://www.autohotkey.com
