@@ -15,6 +15,7 @@ findZip:
                 ALFFP := A_LoopFileFullPath
                 Return
             }
+            Sleep, 2000
         }
     }
 
